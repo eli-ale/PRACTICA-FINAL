@@ -1,0 +1,2 @@
+﻿Se añaden elemtos de tipo bloque <p><h1><li><ul><table><ol><form> y elementos en linea :<b><a><strong><img> se añaden contenedores de elementos de bloque con div con los que poder interactuar con otro tipo de elementos <table><ol><script> .
+Se añaden enlaces a urls exteriores con <a href> se añaden anclas con enlaces .<a id>
